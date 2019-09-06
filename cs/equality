@@ -8,9 +8,9 @@ Suppose the example is ABABABAAABBBAABB
 
 Here are two conditions:
 
-1).If A is there on Top of the stack If the next character is we have to push is B then we will POP otherwise We will Another A to the Stack and update the Top.
+1).If A is there on Top of the stack If the next character is we have to push is B then we will POP otherwise We will Push Another A to the Stack and update the Top.
 
-2).The above condition with is Same with B.
+2).The above condition  is Same with B.
 
 
 ->If the number of A's and B's are equal then the stack will be empty otherwise the number of A's and B's are not equal.
