@@ -1,0 +1,16 @@
+Equality In strings:
+
+1).We can do this problem using stack.
+
+Suppose the example is ABABABAAABBBAABB
+
+2).At first the stack is empty.first We will push A 
+
+Here are two conditions:
+
+1).If A is there on Top of the stack If the next character is we have to push is B then we will POP otherwise We will Another A to the Stack and update the Top.
+
+2).The above condition with is Same with B.
+
+
+->If the number of A's and B's are equal then the stack will be empty otherwise the number of A's and B's are not equal.
